@@ -21,3 +21,12 @@ a {
 	text-decoration: none;
 	border-bottom: green 2px dashed;
 }
+
+.no-border {
+	border: none;
+}
+
+a:hover {
+	color: red;
+	border-bottom: red 2px dotted;
+}
